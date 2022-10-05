@@ -1,0 +1,9 @@
+{
+    "name": "Sprites Music",
+    "prefix": "?",
+    "playing": "Sprites Developments#0001| music ",
+    "quality": "highestaudio",
+    "maxVol": 200,
+    "autoLeave": true,
+    "displayVoiceState": true
+}
